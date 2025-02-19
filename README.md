@@ -7,7 +7,7 @@ Format is an Altium schematic
 
 
 ## Description
-This project is a calculator based on Waveshare's ESP32-C6-PICO Board.
+This project is based on Waveshare's ESP32-C6-PICO Board.
 
 ### Features:
 - **ESP32-C6-MINI-1** as the main chip, featuring a RISC-V 32-bit single-core processor.
